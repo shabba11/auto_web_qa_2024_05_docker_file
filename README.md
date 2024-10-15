@@ -1,1 +1,3 @@
-# auto_web_qa_2024_05_docker_file
+# Курс OTUS (Беляков Максим)
+
+## Домашнее задание по Dockerfile
